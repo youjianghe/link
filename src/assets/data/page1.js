@@ -1,0 +1,21 @@
+/*
+@分类名称:
+@引用文件名:page1
+@createtime:20180625
+@updatetime:20180625
+*/
+export default
+[
+    {
+        name:'cnBeta',
+        link:'https://www.cnbeta.com',
+        icon:'https://www.cnbeta.com/favicon.ico',
+        desc:'中文业界咨询站'
+    },
+    {
+        name:'奇客资讯',
+        link:'https://www.solidot.org',
+        icon:'https://www.solidot.org/favicon.ico',
+        desc:'简洁的IT资讯网站'
+    }
+]
