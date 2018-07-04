@@ -25,7 +25,7 @@ body{margin: 0;font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", Ar
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  padding-left: 180px;
+  padding-left:180px;
 }
 @media screen and (max-width: 768px) {
     #app{padding-left: 0;}

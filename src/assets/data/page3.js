@@ -29,6 +29,12 @@ var data = [
         icon:'https://www.jikexueyuan.com/favicon.ico',
         desc:'IT技术学习'
     },
+    {
+        name:'rails365编程学院',
+        link:'https://www.rails365.net',
+        icon:'https://www.rails365.net/favicon.ico',
+        desc:'rails365编程学院'
+    },
 ]
 
 export {data}

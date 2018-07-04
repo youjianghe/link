@@ -17,5 +17,35 @@ export default
         link:'https://www.solidot.org',
         icon:'https://www.solidot.org/favicon.ico',
         desc:'简洁的IT资讯网站'
-    }
+    },
+    {
+        name:'掘金',
+        link:'https://juejin.im',
+        icon:'https://juejin.im/favicon.ico',
+        desc:'开发者成长的社区'
+    },
+    {
+        name:'segmentfault思否',
+        link:'https://segmentfault.com',
+        icon:'https://segmentfault.com/favicon.ico',
+        desc:'IT问答社区'
+    },
+    {
+        name:'开源中国',
+        link:'https://www.oschina.net',
+        icon:'https://www.oschina.net/favicon.ico',
+        desc:'开源问答社区'
+    },
+    {
+        name:'开源中国',
+        link:'https://www.oschina.net',
+        icon:'https://www.oschina.net/favicon.ico',
+        desc:'开源问答社区'
+    },
+    {
+        name:'V2EX',
+        link:'https://www.v2ex.com',
+        icon:'https://www.v2ex.com/favicon.ico',
+        desc:'交流社区'
+    },
 ]

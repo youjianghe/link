@@ -1,14 +1,42 @@
 /*
-@分类名称:社区站点
+@分类名称:PHP
 @引用文件名:page4
-@createtime:20180625
-@updatetime:20180625
+@createtime:20180703
+@updatetime:20180703
 */
 export default [
     {
-        name:'Vue.js',
-        link:'https://cn.vuejs.org',
-        icon:'https://cn.vuejs.org/images/icons/favicon-16x16.png',
-        desc:'流行,简单易上手的前端MVVC框架'
+        name:'PHP',
+        link:'http://php.net',
+        icon:'http://php.net/favicon.ico',
+        desc:'PHP is a popular general-purpose scripting language that is especially suited to web development.'
+    },
+    {
+        name:'PHP中文网',
+        link:'http://www.php.cn',
+        icon:'http://www.php.cn/favicon.ico',
+        desc:'PHP中文网'
+    },
+    {
+        name:'laravel',
+        link:'https://laravel.com',
+        icon:'https://laravel.com/favicon.ico',
+        desc:'为 WEB 艺术家创造的 PHP 框架',
+        type:{
+            '中文':'https://www.golaravel.com',
+            '英文':'https://laravel.com/'
+        }
+    },
+    {
+        name:'ThinkPhp',
+        link:'http://www.thinkphp.cn',
+        icon:'http://www.thinkphp.cn/Public/favicon.ico',
+        desc:'中文PHP框架'
+    },
+    {
+        name:'swoole',
+        link:'https://www.swoole.com',
+        icon:'https://www.swoole.com/Public/favicon.ico',
+        desc:'面向生产环境的 PHP 异步网络通信引擎'
     },
 ]
