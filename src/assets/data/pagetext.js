@@ -6,193 +6,58 @@
 */
 export default [
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
+        name:'智图-图片优化平台',
+        link:'http://zhitu.isux.us',
+        icon:'http://zhitu.isux.us/favicon.ico'
     },
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
+        name:'gif压缩',
+        link:'https://kornel.ski/lossygif',
+        icon:'https://kornel.ski/favicon.ico'
     },
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
+        name:'PNG压缩',
+        link:'https://pngquant.org',
+        icon:'https://pngquant.org/favicon.ico'
     },
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
+        name:'Pngyu图片处理',
+        link:'http://nukesaq88.github.io/Pngyu/',
+        icon:'http://nukesaq88.github.io/favicon.ico'
     },
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
+        name:'jQuery API',
+        link:'http://jquery.cuishifeng.cn',
+        icon:'http://jquery.cuishifeng.cn/favicon.ico'
     },
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
+        name:'CSS参考手册',
+        link:'http://www.css88.com/book/css/',
+        icon:'http://www.css88.com/favicon.ico'
     },
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
+        name:'CSS参考手册',
+        link:'http://css.doyoe.com/',
+        icon:'http://css.doyoe.com/favicon.ico'
     },
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
+        name:'免费图片',
+        link:'https://pixabay.com/',
+        icon:'https://pixabay.com/favicon.ico'
     },
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
+        name:'制作几何背景图片',
+        link:'https://trianglify.io',
+        icon:'https://trianglify.io/favicon.ico'
     },
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
+        name:'flexslider',
+        link:'https://woocommerce.com/flexslider/',
+        icon:'https://woocommerce.com/favicon.ico'
     },
     {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
-    {
-        name:'XAMPP',
-        link:'https://www.apachefriends.org/zh_cn/index.html',
-        icon:'https://www.apachefriends.org/favicon.ico'
-    },
+        name:'我爱播放器',
+        link:'http://www.52player.cn',
+        icon:'http://www.52player.cn/favicon.ico'
+    }
 ]

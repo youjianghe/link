@@ -59,4 +59,16 @@ export default [
         icon:'https://filezilla-project.org/favicon.ico',
         desc:'The free FTP solution',
     },
+    {
+        name:'Fiddler',
+        link:'https://www.telerik.com/fiddler',
+        icon:'https://www.telerik.com/favicon.ico',
+        desc:'抓包工具',
+    },
+    {
+        name:'SourceTree',
+        link:'https://www.sourcetreeapp.com',
+        icon:'https://www.sourcetreeapp.com/favicon.ico',
+        desc:'A free Git client for Windows and Mac',
+    },
 ]

@@ -113,4 +113,16 @@ export default
         icon:'',
         desc:'Accelerated JavaScript animation.',
     },
+    {
+        name:'JSON在线工具',
+        link:'https://www.sojson.com',
+        icon:'https://www.sojson.com/favicon.ico',
+        desc:'JSON在线工具,js加密解密',
+    },
+    {
+        name:'zTree',
+        link:'http://www.treejs.cn',
+        icon:'',
+        desc:'zTree -- jQuery 树插件,js加密解密',
+    },
 ]

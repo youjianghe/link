@@ -37,10 +37,10 @@ export default
         desc:'开源问答社区'
     },
     {
-        name:'开源中国',
-        link:'https://www.oschina.net',
-        icon:'https://www.oschina.net/favicon.ico',
-        desc:'开源问答社区'
+        name:'ReadHub',
+        link:'https://readhub.me',
+        icon:'https://cdn.readhub.me/static/assets/png/readhub_180.png',
+        desc:'每天三分钟的科技新闻聚合阅读'
     },
     {
         name:'V2EX',
