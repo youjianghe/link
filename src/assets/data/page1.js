@@ -48,4 +48,10 @@ export default
         icon:'https://www.v2ex.com/favicon.ico',
         desc:'交流社区'
     },
+    {
+        name:'芥末堆',
+        link:'https://www.jiemodui.com',
+        icon:'https://www.jiemodui.com/favicon.ico',
+        desc:'交流社区'
+    },
 ]

@@ -39,4 +39,10 @@ export default [
         icon:'https://www.swoole.com/Public/favicon.ico',
         desc:'面向生产环境的 PHP 异步网络通信引擎'
     },
+    {
+        name:'TPTCMS',
+        link:'https://www.tpt360.com',
+        icon:'https://www.tpt360.com/favicon.ico',
+        desc:'基于ThinkPHP的轻量级网站内容管理系统'
+    },
 ]

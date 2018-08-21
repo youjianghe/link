@@ -37,6 +37,16 @@ export default
         }
     },
     {
+        name:'Flutter',
+        link:'https://flutter.io/',
+        icon:'https://flutter.io/favicon.ico',
+        desc:'Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。',
+        type:{
+            '中文':'https://flutterchina.club/',
+            '英文':'https://flutter.io/'
+        }
+    },
+    {
         name:'polymer',
         link:'https://polymer-zh.cn/',
         icon:'https://polymer-zh.cn/images/logos/p-logo.png',

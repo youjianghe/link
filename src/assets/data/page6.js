@@ -54,6 +54,12 @@ export default [
         }
     },
     {
+        name:'Xshell',
+        link:'https://www.netsarang.com/download/down_form.html?code=622&downloadType=0&licenseType=1',
+        icon:'https://www.netsarang.com/favicon.ico',
+        desc:'Xshell 6 Download',
+    },
+    {
         name:'FileZilla',
         link:'https://filezilla-project.org',
         icon:'https://filezilla-project.org/favicon.ico',
