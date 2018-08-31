@@ -8,7 +8,7 @@ export default [
     {
         name:'智图-图片优化平台',
         link:'http://zhitu.isux.us',
-        icon:'http://zhitu.isux.us/favicon.ico'
+        icon:'http://zhitu.isux.us/assets/compress/img/logo-s.ico'
     },
     {
         name:'gif压缩',
@@ -31,14 +31,14 @@ export default [
         icon:'http://jquery.cuishifeng.cn/favicon.ico'
     },
     {
-        name:'CSS参考手册',
+        name:'CSS参考手册(css88)',
         link:'http://www.css88.com/book/css/',
-        icon:'http://www.css88.com/favicon.ico'
+        icon:''
     },
     {
         name:'CSS参考手册',
         link:'http://css.doyoe.com/',
-        icon:'http://css.doyoe.com/favicon.ico'
+        icon:'http://css.doyoe.com/doyoe.ico'
     },
     {
         name:'免费图片',
@@ -48,12 +48,12 @@ export default [
     {
         name:'制作几何背景图片',
         link:'https://trianglify.io',
-        icon:'https://trianglify.io/favicon.ico'
+        icon:'https://trianglify.io/favicon.png'
     },
     {
         name:'flexslider',
         link:'https://woocommerce.com/flexslider/',
-        icon:'https://woocommerce.com/favicon.ico'
+        icon:'https://woocommerce.com/wp-content/uploads/2016/07/cropped-cropped-cropped-favicon.png?w=32'
     },
     {
         name:'我爱播放器',

@@ -74,7 +74,7 @@ export default [
     {
         name:'SourceTree',
         link:'https://www.sourcetreeapp.com',
-        icon:'https://www.sourcetreeapp.com/favicon.ico',
+        icon:'https://www.sourcetreeapp.com/assets/img/favicons/sourcetree/apple-touch-icon.png',
         desc:'A free Git client for Windows and Mac',
     },
 ]

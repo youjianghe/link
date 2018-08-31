@@ -15,7 +15,10 @@ export default [
         name:'PHP中文网',
         link:'http://www.php.cn',
         icon:'http://www.php.cn/favicon.ico',
-        desc:'PHP中文网'
+        desc:'PHP中文网',
+        type:{
+            'phpStudy':'http://phpstudy.php.cn/',
+        }
     },
     {
         name:'laravel',
@@ -30,13 +33,13 @@ export default [
     {
         name:'ThinkPhp',
         link:'http://www.thinkphp.cn',
-        icon:'http://www.thinkphp.cn/Public/favicon.ico',
+        icon:'http://www.thinkphp.cn/Public/new/img/header_logo.png',
         desc:'中文PHP框架'
     },
     {
         name:'swoole',
         link:'https://www.swoole.com',
-        icon:'https://www.swoole.com/Public/favicon.ico',
+        icon:'',
         desc:'面向生产环境的 PHP 异步网络通信引擎'
     },
     {
@@ -44,5 +47,17 @@ export default [
         link:'https://www.tpt360.com',
         icon:'https://www.tpt360.com/favicon.ico',
         desc:'基于ThinkPHP的轻量级网站内容管理系统'
+    },
+    {
+        name:'TPTCMS',
+        link:'https://www.tpt360.com',
+        icon:'https://www.tpt360.com/favicon.ico',
+        desc:'基于ThinkPHP的轻量级网站内容管理系统'
+    },
+    {
+        name:'phpEnv',
+        link:'http://www.phpset.cn/',
+        icon:'http://www.phpenv.cn/usr/themes/phpenv/img/logo.png',
+        desc:'一款优雅强大的PHP集成环境'
     },
 ]

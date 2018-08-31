@@ -39,7 +39,7 @@ export default
     {
         name:'Flutter',
         link:'https://flutter.io/',
-        icon:'https://flutter.io/favicon.ico',
+        icon:'https://flutter.io/images/favicon.png',
         desc:'Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。',
         type:{
             '中文':'https://flutterchina.club/',
@@ -78,7 +78,7 @@ export default
     {
         name:'axios',
         link:'https://github.com/axios/axios',
-        icon:'https://github.com/axios/axios/favicon.ico',
+        icon:'https://github.com/favicon.ico',
         desc:'Promise based HTTP client for the browser and node.js',
     },
     {
@@ -126,13 +126,25 @@ export default
     {
         name:'JSON在线工具',
         link:'https://www.sojson.com',
-        icon:'https://www.sojson.com/favicon.ico',
+        icon:'https://cdn.www.sojson.com/sojson/favicon32.png',
         desc:'JSON在线工具,js加密解密',
     },
     {
         name:'zTree',
         link:'http://www.treejs.cn',
-        icon:'',
+        icon:'http://www.treejs.cn/v3/favicon.ico',
         desc:'zTree -- jQuery 树插件,js加密解密',
+    },
+    {
+        name:'Swiper中文网',
+        link:'https://www.swiper.com.cn/',
+        icon:'https://www.swiper.com.cn/favicon.ico',
+        desc:'开源、免费、强大的触摸滑动插件',
+    },
+    {
+        name:'Moment.js中文网',
+        link:'http://momentjs.cn/',
+        icon:'http://s.nodejs.cn/moment/static/img/moment-favicon.png',
+        desc:'JavaScript 日期处理类库',
     },
 ]
