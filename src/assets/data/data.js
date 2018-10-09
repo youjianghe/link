@@ -5,6 +5,8 @@ import page4 from './page4.js'/* PHP */
 import page5 from './page5.js'/* GitHub精选 */
 import page6 from './page6.js'/* 工具 */
 import page7 from './page7.js'/* 新媒体 */
+import page8 from './page8.js' /* 设计 */
+import page9 from './page9.js' /* 主题 */
 import pagetext from './pagetext.js'/* 杂项链接 */
 import pageother from './pageother.js' /* 其他 */
 
@@ -46,6 +48,16 @@ export default {
             type:0
         },
         {
+            classify:'设计',
+            linkdata:page8,
+            type:0
+        },
+        {
+            classify:'主题',
+            linkdata:page9,
+            type:0
+        },
+        {
             classify:'其他',
             linkdata:pageother,
             type:1
@@ -54,7 +66,7 @@ export default {
             classify:'网页收藏',
             linkdata:pagetext,
             type:0
-        },
+        }
     ]
 
 }

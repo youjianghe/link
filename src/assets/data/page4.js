@@ -49,10 +49,28 @@ export default [
         desc:'基于ThinkPHP的轻量级网站内容管理系统'
     },
     {
-        name:'TPTCMS',
-        link:'https://www.tpt360.com',
-        icon:'https://www.tpt360.com/favicon.ico',
-        desc:'基于ThinkPHP的轻量级网站内容管理系统'
+        name:'豆信',
+        link:'http://www.douchat.net/',
+        icon:'http://www.douchat.net/favicon.ico',
+        desc:'简洁、高效、优雅的微信开发框架'
+    }, 
+    {
+        name:'开源接口框架',
+        link:'https://www.phalapi.net/',
+        icon:'https://www.phalapi.net/favicon.ico',
+        desc:'PhalApi是一个PHP轻量级开源接口框架，致力于快速开发接口服务。支持HTTP/SOAP/RPC等协议，可用于搭建接口/微服务/RESTful接口/Web Services。'
+    },
+    {
+        name:'FastAdmin',
+        link:'https://www.fastadmin.net/',
+        icon:'https://www.fastadmin.net/favicon.ico',
+        desc:'FastAdmin是一款基于ThinkPHP5和Bootstrap的极速后台开发框架'
+    }, 
+    {
+        name:'wechat-php-sdk',
+        link:'https://gitee.com/zoujingli/wechat-php-sdk',
+        icon:'https://gitee.com/favicon.ico',
+        desc:'PHP微信通用SDK，支持微信支付及所有基础接口。'
     },
     {
         name:'phpEnv',

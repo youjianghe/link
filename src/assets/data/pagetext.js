@@ -59,5 +59,10 @@ export default [
         name:'我爱播放器',
         link:'http://www.52player.cn',
         icon:'http://www.52player.cn/favicon.ico'
+    },
+    {
+        name:'SVN密码找回',
+        link:'http://www.leapbeyond.com/ric/TSvnPD/',
+        icon:'http://www.leapbeyond.com/ric/TSvnPD/favicon.ico'
     }
 ]
