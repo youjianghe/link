@@ -1,6 +1,6 @@
 /*
 @分类名称:PHP
-@引用文件名:page4
+@引用文件名:page_php
 @createtime:20180703
 @updatetime:20180703
 */
@@ -43,6 +43,12 @@ export default [
         desc:'面向生产环境的 PHP 异步网络通信引擎'
     },
     {
+        name:'Workerman',
+        link:'https://www.workerman.net/',
+        icon:'https://www.workerman.net/img/favicon.png',
+        desc:'纯PHP开发的开源高性能异步PHP socket框架'
+    },
+    {
         name:'TPTCMS',
         link:'https://www.tpt360.com',
         icon:'https://www.tpt360.com/favicon.ico',
@@ -71,6 +77,12 @@ export default [
         link:'https://gitee.com/zoujingli/wechat-php-sdk',
         icon:'https://gitee.com/favicon.ico',
         desc:'PHP微信通用SDK，支持微信支付及所有基础接口。'
+    },
+    {
+        name:'《PHP之道》',
+        link:'https://laravel-china.github.io/php-the-right-way/',
+        icon:'https://gitee.com/favicon.ico',
+        desc:'收集了现有的 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找。'
     },
     {
         name:'phpEnv',

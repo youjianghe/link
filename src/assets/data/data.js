@@ -1,12 +1,13 @@
 import page1 from './page1.js' /*常用网址*/
 import page2 from './page2.js' /*前端资源*/
 import {data as page3} from './page3.js'/* 好好学习 */
-import page4 from './page4.js'/* PHP */
+import page_php from './page_php.js'/* PHP */
 import page5 from './page5.js'/* GitHub精选 */
 import page6 from './page6.js'/* 工具 */
 import page7 from './page7.js'/* 新媒体 */
 import page8 from './page8.js' /* 设计 */
 import page9 from './page9.js' /* 主题 */
+import page_weixin from './page_weixin.js' /* 微信开发资源 */
 import pagetext from './pagetext.js'/* 杂项链接 */
 import pageother from './pageother.js' /* 其他 */
 
@@ -34,7 +35,7 @@ export default {
         },
         {
             classify:'PHP',
-            linkdata:page4,
+            linkdata:page_php,
             type:1
         },
         {
@@ -43,8 +44,8 @@ export default {
             type:1
         },
         {
-            classify:'新媒体&工具',
-            linkdata:page7,
+            classify:'微信开发',
+            linkdata:page_weixin,
             type:0
         },
         {
@@ -61,6 +62,11 @@ export default {
             classify:'其他',
             linkdata:pageother,
             type:1
+        },
+        {
+            classify:'新媒体&工具',
+            linkdata:page7,
+            type:0
         },
         {
             classify:'网页收藏',

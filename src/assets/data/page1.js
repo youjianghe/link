@@ -54,4 +54,10 @@ export default
         icon:'https://www.jiemodui.com/favicon.ico',
         desc:'交流社区'
     },
+    {
+        name:'Stack Overflow',
+        link:'https://stackoverflow.com',
+        icon:'https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico',
+        desc:'Learn, Share, Build'
+    },
 ]
