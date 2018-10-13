@@ -1,8 +1,8 @@
 /*
 @分类名称:工具
-@引用文件名:page6
+@引用文件名:page_tool
 @createtime:20180703
-@updatetime:20180703
+@updatetime:20181011
 */
 export default [
     {
@@ -76,5 +76,11 @@ export default [
         link:'https://www.sourcetreeapp.com',
         icon:'https://www.sourcetreeapp.com/assets/img/favicons/sourcetree/apple-touch-icon.png',
         desc:'A free Git client for Windows and Mac',
+    },
+    {
+        name:'Google Chrome下载地址',
+        link:'https://api.shuax.com/tools/getchrome',
+        icon:'https://api.shuax.com/tools/getchrome/favicon.ico',
+        desc:'做了一个新网站 getchrome.shuax.com 欢迎尝试，新增了Mac版哦。',
     },
 ]

@@ -1,6 +1,6 @@
 /*
 @分类名称:前端资源
-@引用文件名:page2
+@引用文件名:page_front
 @createtime:20180625
 @updatetime:20180625
 */
@@ -146,5 +146,11 @@ export default
         link:'http://momentjs.cn/',
         icon:'http://s.nodejs.cn/moment/static/img/moment-favicon.png',
         desc:'JavaScript 日期处理类库',
+    },
+    {
+        name:'百度MIP',
+        link:'https://www.mipengine.org/',
+        icon:'https://www.mipengine.org/favicon.ico',
+        desc:'移动网页加速器',
     },
 ]

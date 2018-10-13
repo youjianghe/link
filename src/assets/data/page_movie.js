@@ -1,0 +1,38 @@
+/*
+@分类名称:影视导航
+@引用文件名:page_movie
+@createtime:20181013
+@updatetime:20181013
+*/
+export default [
+    {
+        name:'爱奇艺',
+        link:'https://www.iqiyi.com/',
+        icon:'//www.iqiyipic.com/common/images/logo.ico',
+        desc:'悦享品质'
+    },
+    {
+        name:'腾讯视频',
+        link:'https://v.qq.com/',
+        icon:'//v.qq.com/favicon.ico',
+        desc:'腾讯视频'
+    },
+    {
+        name:'优酷',
+        link:'https://www.youku.com/',
+        icon:'//static.youku.com/v1.0.166/index/img/favicon.ico',
+        desc:'优酷-这世界很酷'
+    },
+    {
+        name:'linkPage',
+        link:'http://www.link-page.tk/',
+        icon:'//static.youku.com/v1.0.166/index/img/favicon.ico',
+        desc:'link-page'
+    },
+    {
+        name:'人生05',
+        link:'http://www.rs05.com/',
+        icon:'',
+        desc:'影视分享'
+    },
+]

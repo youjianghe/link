@@ -2,7 +2,7 @@
     <div class="mainContent">
         <div class="box">
             <template v-for="(item,index) in data" >
-                <div class="nav-list" v-bind:key="item.id" v-bind:id="'page'+index" v-if="item.type==1">
+                <div class="nav-list" v-if="item.type==1" v-bind:key="item.id" v-bind:id="'page'+index" v-bind:type="item.type">
                     <h5 class="classify">{{item.classify}}</h5>
                     <ul>
                         <li v-for="list in item.linkdata" v-bind:key="list.id">
@@ -18,7 +18,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="nav-list" v-if="item.type == 0" v-bind:key="item.id">
+                <div class="nav-list" v-if="item.type == 0" v-bind:key="item.id" v-bind:id="'page'+index" v-bind:type = "item.type">
                     <h5 class="classify">{{item.classify}}</h5>
                     <div class="lista">
                     <template v-for="list in item.linkdata">
