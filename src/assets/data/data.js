@@ -1,15 +1,16 @@
 import page1 from './page1.js' /*常用网址*/
-import page2 from './page2.js' /*前端资源*/
-import {data as page3} from './page3.js'/* 好好学习 */
+import page_front from './page_front.js' /*前端资源*/
+import {data as page_study} from './page_study.js'/* 好好学习 */
 import page_php from './page_php.js'/* PHP */
-import page5 from './page5.js'/* GitHub精选 */
-import page6 from './page6.js'/* 工具 */
-import page7 from './page7.js'/* 新媒体 */
+import page_github from './page_github.js'/* GitHub精选 */
+import page_tool from './page_tool.js'/* 工具 */
+import page_media_tools from './page_media_tools.js'/* 新媒体 */
 import page8 from './page8.js' /* 设计 */
 import page9 from './page9.js' /* 主题 */
 import page_weixin from './page_weixin.js' /* 微信开发资源 */
 import pagetext from './pagetext.js'/* 杂项链接 */
 import pageother from './pageother.js' /* 其他 */
+import page_movie from './page_movie.js' /* 影视娱乐 */
 
 export default {
     data:[
@@ -20,17 +21,17 @@ export default {
         },
         {
             classify:'HTML&CSS&JS',
-            linkdata:page2,
+            linkdata:page_front,
             type:1
         },
         {
             classify:'好好学习',
-            linkdata:page3,
+            linkdata:page_study,
             type:1
         },
         {
             classify:'GitHub精选',
-            linkdata:page5,
+            linkdata:page_github,
             type:1
         },
         {
@@ -40,7 +41,7 @@ export default {
         },
         {
             classify:'工具',
-            linkdata:page6,
+            linkdata:page_tool,
             type:1
         },
         {
@@ -64,8 +65,13 @@ export default {
             type:1
         },
         {
+            classify:'影视娱乐',
+            linkdata:page_movie,
+            type:1
+        },
+        {
             classify:'新媒体&工具',
-            linkdata:page7,
+            linkdata:page_media_tools,
             type:0
         },
         {

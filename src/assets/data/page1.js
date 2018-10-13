@@ -60,4 +60,10 @@ export default
         icon:'https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico',
         desc:'Learn, Share, Build'
     },
+    {
+        name:'凹凸实验室',
+        link:'https://aotu.io/',
+        icon:'https://aotu.io/img/favicon-230x230.png',
+        desc:'京东用户体验设计部'
+    },
 ]

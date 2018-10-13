@@ -1,6 +1,6 @@
 /*
 @分类名称:GitHub精选
-@引用文件名:page5
+@引用文件名:page_github
 @createtime:20180703
 @updatetime:20180703
 */
@@ -22,5 +22,14 @@ export default [
         link:'https://github.com/js-cookie/js-cookie',
         icon:'https://github.com/favicon.ico',
         desc:'A simple, lightweight JavaScript API for handling browser cookies'
+    },
+    {
+        name:'快速图片合成插件',
+        link:'https://github.com/xd-tayde/mcanvas',
+        icon:'https://github.com/favicon.ico',
+        desc:'美图出品的图片合成插件,生成的是base64',
+        type:{
+            'DEMO':'http://f2er.meitu.com/gxd/mcanvas/example/index.html'
+        }
     },
 ]
