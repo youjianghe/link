@@ -83,10 +83,13 @@ export default [
         icon:'https://api.shuax.com/tools/getchrome/favicon.ico',
         desc:'做了一个新网站 getchrome.shuax.com 欢迎尝试，新增了Mac版哦。',
     },
+<<<<<<< HEAD:src/assets/data/page_tool.js
     {
         name:'koala',
         link:'http://koala-app.com/',
         icon:'http://koala-app.com/favicon.ico',
         desc:'koala是一个前端预处理器语言图形编译工具',
     },
+=======
+>>>>>>> 23f7e36b26782ff130f2f8a2155e3b21ea2609ee:src/assets/data/page_tool.js
 ]
