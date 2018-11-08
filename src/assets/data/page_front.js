@@ -153,13 +153,4 @@ export default
         icon:'https://www.mipengine.org/favicon.ico',
         desc:'移动网页加速器',
     },
-<<<<<<< HEAD:src/assets/data/page_front.js
-    {
-        name:'百度MIP',
-        link:'https://repl.it',
-        icon:'https://repl.it/favicon.ico',
-        desc:'在线编译js、node、java等',
-    },
-=======
->>>>>>> 23f7e36b26782ff130f2f8a2155e3b21ea2609ee:src/assets/data/page_front.js
 ]
