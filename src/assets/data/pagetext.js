@@ -64,5 +64,5 @@ export default [
         name:'SVN密码找回',
         link:'http://www.leapbeyond.com/ric/TSvnPD/',
         icon:'http://www.leapbeyond.com/ric/TSvnPD/favicon.ico'
-    }
+    },
 ]

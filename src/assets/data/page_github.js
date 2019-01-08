@@ -32,4 +32,16 @@ export default [
             'DEMO':'http://f2er.meitu.com/gxd/mcanvas/example/index.html'
         }
     },
+    {
+        name:'Hover.css',
+        link:'https://github.com/IanLunn/Hover',
+        icon:'https://github.com/favicon.ico',
+        desc:'A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.'
+    },
+    {
+        name:'snabbt.js',
+        link:'http://daniel-lundin.github.io/snabbt.js/',
+        icon:'https://github.com/favicon.ico',
+        desc:'Minimalistic animation library in javascript'
+    },
 ]

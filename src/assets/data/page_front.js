@@ -7,6 +7,12 @@
 export default
 [
     {
+        name:'MDN- Web 技术文档',
+        link:'https://developer.mozilla.org/zh-CN/docs/Web',
+        icon:'https://developer.mozilla.org/static/img/favicon32.7f3da72dcea1.png',
+        desc:'MDN'
+    },    
+    {
         name:'Vue.js',
         link:'https://cn.vuejs.org',
         icon:'https://cn.vuejs.org/images/icons/favicon-16x16.png',
@@ -150,6 +156,12 @@ export default
     {
         name:'百度MIP',
         link:'https://www.mipengine.org/',
+        icon:'https://www.mipengine.org/favicon.ico',
+        desc:'移动网页加速器',
+    },    
+    {
+        name:'雪碧图制作',
+        link:'https://www.toptal.com/developers/css/sprite-generator',
         icon:'https://www.mipengine.org/favicon.ico',
         desc:'移动网页加速器',
     },

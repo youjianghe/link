@@ -1,8 +1,8 @@
 /*
-@分类名称:新媒体工具
+@分类名称:新媒体&工具
 @引用文件名:page_media_tools
 @createtime:20180830
-@updatetime:20180830
+@updatetime:20190108
 */
 export default [
     {
@@ -139,5 +139,45 @@ export default [
         name:'二维工场',
         link:'http://2weima.com/',
         icon:'http://2weima.com/favicon.ico'
+    },
+    {
+        name:'七麦数据',
+        link:'https://www.qimai.cn',
+        icon:'https://static.qimai.cn/static/favicon.ico'
+    },
+    {
+        name:'上线了-小程序',
+        link:'https://www.sxl.cn/',
+        icon:'https://static-assets.sxlcdn.com/images/favicon-sxl.ico'
+    },
+    {
+        name:'增长黑客',
+        link:'https://www.growthhk.cn',
+        icon:'https://www.growthhk.cn/wp-content/uploads/cropped-g-32x32.png'
+    },
+    {
+        name:'幕布-脑图笔记生成',
+        link:'https://mubu.com/',
+        icon:'https://mubu.com/favicon.ico'
+    },
+    {
+        name:'小i机器人',
+        link:'http://www.xiaoi.com/',
+        icon:'http://www.xiaoi.com/__PUBLIC__/Images/favicon.ico'
+    },
+    {
+        name:'进群宝',
+        link:'http://www.jinqunbao.com/',
+        icon:'http://www.jinqunbao.com/images/icon/favicon_logo.ico'
+    },
+    {
+        name:'领库-自媒体排行',
+        link:'http://www.kolrank.com/',
+        icon:'http://www.kolrank.com/favicon.gif'
+    },
+    {
+        name:'soogif-制作压缩',
+        link:'https://www.soogif.com/',
+        icon:'https://www.soogif.com/favicon.gif'
     },
 ]

@@ -4,6 +4,7 @@ import {data as page_study} from './page_study.js'/* 好好学习 */
 import page_php from './page_php.js'/* PHP */
 import page_github from './page_github.js'/* GitHub精选 */
 import page_tool from './page_tool.js'/* 工具 */
+import page_yunying from './page_yunying.js'/* 运营笔记 */
 import page_media_tools from './page_media_tools.js'/* 新媒体 */
 import page8 from './page8.js' /* 设计 */
 import page9 from './page9.js' /* 主题 */
@@ -42,6 +43,11 @@ export default {
         {
             classify:'工具',
             linkdata:page_tool,
+            type:1
+        },
+        {
+            classify:'运营笔记',
+            linkdata:page_yunying,
             type:1
         },
         {

@@ -2,7 +2,7 @@
 @分类名称:主题
 @引用文件名:page_weixin
 @createtime:20181010
-@updatetime:20181010
+@updatetime:20190108
 */
 export default [
     {
@@ -19,5 +19,15 @@ export default [
         name:'微信开发测试号',
         link:'https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login',
         icon:'https://res.wx.qq.com/mpres/htmledition/images/favicon3a7b38.ico'
+    },
+    {
+        name:'公众宝-关注微信机器人',
+        link:'http://gz.xiaoi.com/',
+        icon:'https://res.wx.qq.com/mpres/htmledition/images/favicon3a7b38.ico'
+    },
+    {
+        name:'水滴微信平台',
+        link:'https://drip.im/',
+        icon:'https://drip.im/favicon.ico'
     },
 ]

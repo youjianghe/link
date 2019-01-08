@@ -2,7 +2,7 @@
 @分类名称:好好学习
 @引用文件名:page_study
 @createtime:20180625
-@updatetime:20180625
+@updatetime:20190108
 */
 var data = [
     {
@@ -28,6 +28,18 @@ var data = [
         link:'https://www.jikexueyuan.com',
         icon:'https://www.jikexueyuan.com/favicon.ico',
         desc:'IT技术学习'
+    },
+    {
+        name:'暖石',
+        link:'https://www.nuanshi100.com',
+        icon:'https://www.nuanshi100.com/favicon.ico',
+        desc:'互联网运营学习'
+    },
+    {
+        name:'暖石',
+        link:'https://www.sanjieke.cn/',
+        icon:'https://img.sanjieke.cn/common/favicon.ico',
+        desc:'互联网人在线大学'
     },
 ]
 
