@@ -12,6 +12,7 @@ import page_weixin from './page_weixin.js' /* 微信开发资源 */
 import pagetext from './pagetext.js'/* 杂项链接 */
 import pageother from './pageother.js' /* 其他 */
 import page_movie from './page_movie.js' /* 影视娱乐 */
+import page_school from './page_school.js' /* 培训机构 */
 
 export default {
     data:[
@@ -83,6 +84,11 @@ export default {
         {
             classify:'网页收藏',
             linkdata:pagetext,
+            type:0
+        },
+        {
+            classify:'培训机构',
+            linkdata:page_school,
             type:0
         }
     ]

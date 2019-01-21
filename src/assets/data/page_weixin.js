@@ -30,4 +30,19 @@ export default [
         link:'https://drip.im/',
         icon:'https://drip.im/favicon.ico'
     },
+    {
+        name:'小再小',
+        link:'http://www.xiaozaixiao.com/',
+        icon:'http://www.xiaozaixiao.com/favicon.ico'
+    },
+    {
+        name:'即速应用',
+        link:'http://www.jisuapp.cn/',
+        icon:'http://cdn.jisuapp.cn/zhichi_frontend/static/common/images/favicon.ico'
+    },
+    {
+        name:'鲸打卡',
+        link:'https://www.jingdaka.com/',
+        icon:'https://www.jingdaka.com/favicon.ico'
+    },
 ]

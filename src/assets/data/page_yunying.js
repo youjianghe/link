@@ -12,10 +12,34 @@ export default [
         desc:'鸟哥笔记'
     },
     {
+        name:'艾奇在线',
+        link:'http://www.27sem.com/',
+        icon:'http://www.27sem.com/images/aiqi_Ipad_loho.png',
+        desc:'艾奇SEM是权威专业的SEM竞价学习平台'
+    },
+    {
+        name:'七麦数据',
+        link:'https://www.qimai.cn/',
+        icon:'https://static.qimai.cn/static/favicon.ico',
+        desc:'七麦数据（原ASO100），专业移动推广数据分析平台'
+    },
+    {
+        name:'ASO114',
+        link:'https://aso114.com/',
+        icon:'https://statics.aso114.com/images/favicon.ico',
+        desc: '中国专业移动开发者数据分析平台' 
+    }, 
+    {
         name:'人人都是产品经理',
         link:'http://www.woshipm.com/',
         icon:'http://image.woshipm.com/wp-files/other/favicon.ico',
         desc:'人人都是产品经理'
+    },
+    {
+        name:'虎鲸跳跃',
+        link:'http://www.aihujing.com',
+        icon:'http://www.aihujing.com/static/favicon.ico',
+        desc:'虎鲸跳跃，微信质检查'
     },
     
 ]

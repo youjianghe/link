@@ -180,4 +180,9 @@ export default [
         link:'https://www.soogif.com/',
         icon:'https://www.soogif.com/favicon.gif'
     },
+    {
+        name:'壹伴-新媒体工具',
+        link:'https://yiban.io/',
+        icon:'https://yiban.io/favicon.gif'
+    },
 ]

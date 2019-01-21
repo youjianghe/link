@@ -66,4 +66,10 @@ export default
         icon:'https://aotu.io/img/favicon-230x230.png',
         desc:'京东用户体验设计部'
     },
+    {
+        name:'新芽',
+        link:'https://www.newseed.cn/',
+        icon:'https://static.pedaily.cn/app/newseed/favicon.ico',
+        desc:'新芽NewSeed致力于为早期创业者、创始人和天使投资人提供又新又快的创业资讯、数据、创投融资对接、创投学院。'
+    },
 ]
