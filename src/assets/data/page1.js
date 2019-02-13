@@ -72,4 +72,10 @@ export default
         icon:'https://static.pedaily.cn/app/newseed/favicon.ico',
         desc:'新芽NewSeed致力于为早期创业者、创始人和天使投资人提供又新又快的创业资讯、数据、创投融资对接、创投学院。'
     },
+    {
+        name:'微果酱',
+        link:'http://wpweixin.com/',
+        icon:'http://wpweixin.com/favicon.ico',
+        desc:'微果酱，专注于公众号媒体人物、资讯、数据分析等的分享'
+    },
 ]

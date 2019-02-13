@@ -36,10 +36,16 @@ var data = [
         desc:'互联网运营学习'
     },
     {
-        name:'暖石',
-        link:'https://www.sanjieke.cn/',
-        icon:'https://img.sanjieke.cn/common/favicon.ico',
-        desc:'互联网人在线大学'
+        name:'砺儒云课堂',
+        link:'http://moodle.scnu.edu.cn/',
+        icon:'http://moodle.scnu.edu.cn/theme/image.php/lambda/theme/1546937956/favicon',
+        desc:'华南师范法学'
+    },
+    {
+        name:'中国大学MOOC',
+        link:'https://www.icourse163.org/',
+        icon:'https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100',
+        desc:'网易-大学公开课程'
     },
 ]
 

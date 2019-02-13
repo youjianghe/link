@@ -45,4 +45,35 @@ export default [
         link:'https://www.jingdaka.com/',
         icon:'https://www.jingdaka.com/favicon.ico'
     },
+    {
+        name:'微信活码',
+        link:'http://www.mshangz.com/',
+        icon:'http://www.mshangz.com/favicon.ico'
+    },
+    {
+        name:'芝麻小客服',
+        link:'http://xiaokefu.com.cn/',
+        icon:'hhttp://xiaokefu.com.cn/images/favicon.ico'
+    },
+    {
+        name:'芝麻二维码',
+        link:'https://www.hotapp.cn/',
+        icon:'https://www.hotapp.cn/favicon.ico'
+    },
+    {
+        name:'十二攒-社交电商服务',
+        link:'https://www.12zan.cn',
+        icon:'https://cdn.withpush.cn/shop/favicon.ico'
+    },
+    {
+        name:'花生小店',
+        link:'http://97866.com/',
+        icon:'http://cdn2.wpweixin.com/wp-content/themes/97866/images/bitbug_favicon.ico'
+    },
+    {
+        name:'轻直达小程序',
+        link:'http://www.qzhida.com',
+        icon:''
+    },
+
 ]
