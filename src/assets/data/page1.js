@@ -73,6 +73,12 @@ export default
         desc:'新芽NewSeed致力于为早期创业者、创始人和天使投资人提供又新又快的创业资讯、数据、创投融资对接、创投学院。'
     },
     {
+        name:'爱分析',
+        link:'http://ifenxi.com/',
+        icon:'http://ifenxi.com/wp-content/uploads/2017/08/2017080810452674.png',
+        desc:'新经济领域第一研究型媒体'
+    },
+    {
         name:'微果酱',
         link:'http://wpweixin.com/',
         icon:'http://wpweixin.com/favicon.ico',

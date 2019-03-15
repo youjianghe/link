@@ -41,5 +41,11 @@ export default [
         icon:'http://www.aihujing.com/static/favicon.ico',
         desc:'虎鲸跳跃，微信质检查'
     },
+    {
+        name:'广告查查',
+        link:'http://www.adbug.cn',
+        icon:'http://www.adbug.cn/static/favicon.ico',
+        desc:'互联网广告情报收集与洞察平台'
+    },
     
 ]

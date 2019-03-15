@@ -31,6 +31,11 @@ export default [
         icon:'https://drip.im/favicon.ico'
     },
     {
+        name:'小红点',
+        link:'https://www.xiaohongdian.net',
+        icon:'https://www.xiaohongdian.net/favicon.ico'
+    },
+    {
         name:'小再小',
         link:'http://www.xiaozaixiao.com/',
         icon:'http://www.xiaozaixiao.com/favicon.ico'
@@ -74,6 +79,11 @@ export default [
         name:'轻直达小程序',
         link:'http://www.qzhida.com',
         icon:''
+    },
+    {
+        name:'知识圈-构建属于您的知识社群',
+        link:'https://www.zhishiquan.com/index.html',
+        icon:'https://www.zhishiquan.com/favicon.ico'
     },
 
 ]

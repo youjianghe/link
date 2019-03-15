@@ -165,4 +165,16 @@ export default
         icon:'https://www.mipengine.org/favicon.ico',
         desc:'移动网页加速器',
     },
+    {
+        name:'F2etest',
+        link:'https://f2etest.net/',
+        icon:'https://f2etest.net/favicon.ico',
+        desc:'F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。',
+    },
+    {
+        name:'vConsole',
+        link:'https://github.com/Tencent/vConsole/blob/dev/README_CN.md',
+        icon:'https://github.com/favicon.ico',
+        desc:'一个轻量、可拓展、针对手机网页的前端开发者调试面板。',
+    },
 ]
