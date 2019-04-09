@@ -1,5 +1,5 @@
 /*
-@分类名称:杂项链接
+@分类名称:网页搜藏
 @引用文件名:pagetext
 @createtime:20180703
 @updatetime:20180703
@@ -65,4 +65,20 @@ export default [
         link:'http://www.leapbeyond.com/ric/TSvnPD/',
         icon:'http://www.leapbeyond.com/ric/TSvnPD/favicon.ico'
     },
+    {
+        name:'优品PPT 模板下载',
+        link:'http://www.ypppt.com/',
+        icon:'http://www.ypppt.com/favicon.ico'
+    },
+    {
+        name:'果核剥壳',
+        link:'https://www.ghpym.com/',
+        icon:'https://www.ghpym.com/favicon.ico'
+    },
+    {
+        name:'心海e站',
+        link:'https://hrtsea.com/',
+        icon:'https://hrtsea.com/favicon.ico'
+    },
+
 ]

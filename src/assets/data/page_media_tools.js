@@ -185,4 +185,9 @@ export default [
         link:'https://yiban.io/',
         icon:'https://yiban.io/favicon.gif'
     },
+    {
+        name:'媒想到',
+        link:'https://www.94mxd.com',
+        icon:'https://www.94mxd.com/home/favicon.ico'
+    },
 ]

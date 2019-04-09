@@ -47,6 +47,12 @@ var data = [
         icon:'https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100',
         desc:'网易-大学公开课程'
     },
+    {
+        name:'中国大学MOOC',
+        link:'https://www.icourse163.org/',
+        icon:'https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100',
+        desc:'网易-大学公开课程'
+    },
 ]
 
 export {data}

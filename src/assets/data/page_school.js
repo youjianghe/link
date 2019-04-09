@@ -26,24 +26,24 @@ export default [
         icon: 'http://www.beautifulreading.com/images/favicon_32.ico'
     },
     {
-        name: 'jQuery API',
-        link: 'http://jquery.cuishifeng.cn',
-        icon: 'http://jquery.cuishifeng.cn/favicon.ico'
+        name: '梅沙营地教育',
+        link: 'https://meishakeji.com',
+        icon: 'https://meishakeji.com/img/favicon.ico'
     },
     {
-        name: 'CSS参考手册(css88)',
-        link: 'http://www.css88.com/book/css/',
-        icon: ''
+        name: 'AAA教育',
+        link: 'http://www.aaa-cg.com.cn/',
+        icon: 'http://www.aaa-cg.com.cn/img/favicon.ico'
     },
     {
-        name: 'CSS参考手册',
-        link: 'http://css.doyoe.com/',
-        icon: 'http://css.doyoe.com/doyoe.ico'
+        name: '熊猫小课',
+        link: 'https://www.pandateacher.com',
+        icon: 'https://www.pandateacher.com/favicon.ico'
     },
     {
-        name: '免费图片',
-        link: 'https://pixabay.com/',
-        icon: 'https://pixabay.com/favicon.ico'
+        name: '风变编程/Python小课',
+        link: 'https://www.pypypy.cn',
+        icon: 'https://www.pypypy.cn/favicon.ico'
     },
     {
         name: '制作几何背景图片',
