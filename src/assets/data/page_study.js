@@ -53,6 +53,12 @@ var data = [
         icon:'https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100',
         desc:'网易-大学公开课程'
     },
+    {
+        name:'路飞学城',
+        link:'https://www.luffycity.com/courses',
+        icon:'https://hcdn1.luffycity.com/static/frontend/index/Luffy-study-logo.png',
+        desc:'免费课（Python）Go'
+    },
 ]
 
 export {data}
