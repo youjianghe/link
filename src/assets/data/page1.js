@@ -84,4 +84,22 @@ export default
         icon:'http://wpweixin.com/favicon.ico',
         desc:'微果酱，专注于公众号媒体人物、资讯、数据分析等的分享'
     },
+    {
+        name:'辅导圈',
+        link:'https://fudaoquan.com/',
+        icon:'https://fudaoquan.com/favicon.ico',
+        desc:'辅导人的圈子 关注k12辅导行业'
+    },
+    {
+        name:'技术胖',
+        link:'https://jspang.com/',
+        icon:'https://jspang.com/favicon.ico',
+        desc:'光头程序员，专注于WEB和移动前端开发'
+    },
+    {
+        name:'周梦康',
+        link:'https://mengkang.net/',
+        icon:'https://static.mengkang.net/favicon.ico',
+        desc:'我是周梦康，后端研发工程师。目前就职于阿里云。'
+    },
 ]

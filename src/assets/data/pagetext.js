@@ -80,5 +80,10 @@ export default [
         link:'https://hrtsea.com/',
         icon:'https://hrtsea.com/favicon.ico'
     },
+    {
+        name:'bmob后端云（小程序）',
+        link:'https://www.bmob.cn/',
+        icon:'https://www.bmob.cn/favicon.ico'
+    },
 
 ]

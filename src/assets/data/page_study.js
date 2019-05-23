@@ -59,6 +59,12 @@ var data = [
         icon:'https://hcdn1.luffycity.com/static/frontend/index/Luffy-study-logo.png',
         desc:'免费课（Python）Go'
     },
+    {
+        name:'猿人学Python',
+        link:'https://www.yuanrenxue.com/',
+        icon:'https://www.yuanrenxue.com/wp-content/themes/Fanly%20V2.0/Fanly/images/favicon.ico',
+        desc:'教你挣钱的Python教程网站'
+    },
 ]
 
 export {data}

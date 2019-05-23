@@ -46,9 +46,9 @@ export default [
         icon: 'https://www.pypypy.cn/favicon.ico'
     },
     {
-        name: '制作几何背景图片',
-        link: 'https://trianglify.io',
-        icon: 'https://trianglify.io/favicon.png'
+        name: '菁优网',
+        link: 'http://www.jyeoo.com/',
+        icon: 'http://img.jyeoo.net/favicon.ico'
     },
     {
         name: 'flexslider',

@@ -61,6 +61,12 @@ export default [
         desc:'简洁、高效、优雅的微信开发框架'
     }, 
     {
+        name:'二哈',
+        link:'https://www.rhaphp.com/',
+        icon:'https://www.rhaphp.com/favicon.ico',
+        desc:'优雅、轻快、简洁、一款免费开源的微信开发、小程序开发、微信公众号管理系统！'
+    }, 
+    {
         name:'开源接口框架',
         link:'https://www.phalapi.net/',
         icon:'https://www.phalapi.net/favicon.ico',
