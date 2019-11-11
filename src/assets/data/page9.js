@@ -10,4 +10,14 @@ export default [
         link:'https://www.hnysnet.com/',
         icon:'https://www.hnysnet.com/favicon.ico'
     },
+    {
+        name:'西风里',
+        link:'https://www.anji66.net/index.html',
+        icon:'https://www.anji66.net/favicon.ico'
+    },
+    {
+        name:'银河源码',
+        link:'https://www.waytomilky.com/',
+        icon:'https://www.waytomilky.com/favicon.ico'
+    },
 ]

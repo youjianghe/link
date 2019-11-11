@@ -85,5 +85,14 @@ export default [
         link:'https://www.bmob.cn/',
         icon:'https://www.bmob.cn/favicon.ico'
     },
-
+    {
+        name:'小木屋导航',
+        link:'https://cabin.nilhave.com',
+        icon:'https://cabin.nilhave.com/favicon.ico'
+    },
+    {
+        name:'益K线-财经',
+        link:'http://www.lanyife.com',
+        icon:'http://www.lanyife.com/favicon.ico'
+    }
 ]

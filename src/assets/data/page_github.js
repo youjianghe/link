@@ -24,6 +24,12 @@ export default [
         desc:'A simple, lightweight JavaScript API for handling browser cookies'
     },
     {
+        name:'dialog2',
+        link:'https://github.com/sufangyu/dialog2',
+        icon:'https://github.com/favicon.ico',
+        desc:'移动端弹窗'
+    },
+    {
         name:'快速图片合成插件',
         link:'https://github.com/xd-tayde/mcanvas',
         icon:'https://github.com/favicon.ico',

@@ -171,6 +171,11 @@ export default [
         icon:'http://www.jinqunbao.com/images/icon/favicon_logo.ico'
     },
     {
+        name:'星耀任务宝',
+        link:'https://h5.xyookj.com/web/index.php',
+        icon:'https://h5.xyookj.com/web/index.php/favicon_logo.ico'
+    },
+    {
         name:'领库-自媒体排行',
         link:'http://www.kolrank.com/',
         icon:'http://www.kolrank.com/favicon.gif'
@@ -189,5 +194,10 @@ export default [
         name:'媒想到',
         link:'https://www.94mxd.com',
         icon:'https://www.94mxd.com/home/favicon.ico'
+    },
+    {
+        name:'万彩办公大师',
+        link:'http://www.wofficebox.com/',
+        icon:'http://www.wofficebox.com/favicon.ico'
     },
 ]

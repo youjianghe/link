@@ -21,6 +21,11 @@ export default [
         icon:'https://res.wx.qq.com/mpres/htmledition/images/favicon3a7b38.ico'
     },
     {
+        name:'微信个人号 API：wxpy',
+        link:'https://wxpy.readthedocs.io/zh/latest/',
+        icon:'https://wxpy.readthedocs.io/favicon.ico'
+    },
+    {
         name:'公众宝-关注微信机器人',
         link:'http://gz.xiaoi.com/',
         icon:'https://res.wx.qq.com/mpres/htmledition/images/favicon3a7b38.ico'

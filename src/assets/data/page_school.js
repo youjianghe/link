@@ -51,6 +51,26 @@ export default [
         icon: 'http://img.jyeoo.net/favicon.ico'
     },
     {
+        name: '几古教育',
+        link: 'http://www.jigujia.cn/',
+        icon: 'http://www.jigujia.cn/favicon.ico'
+    },
+    {
+        name: '高途课堂',
+        link: 'https://www.gaotu100.com/',
+        icon: 'https://www.gaotu100.com/favicon.ico'
+    },
+    {
+        name: '云齐少年营地教育',
+        link: 'https://www.yqsn.cn',
+        icon: 'https://www.yqsn.cn/favicon.ico'
+    },
+    {
+        name: '晓禾教育',
+        link: 'https://www.ixiaohe.com',
+        icon: 'https://www.ixiaohe.com/favicon.ico'
+    },
+    {
         name: 'flexslider',
         link: 'https://woocommerce.com/flexslider/',
         icon: 'https://woocommerce.com/wp-content/uploads/2016/07/cropped-cropped-cropped-favicon.png?w=32'

@@ -96,4 +96,10 @@ export default [
         icon:'http://www.phpenv.cn/usr/themes/phpenv/img/logo.png',
         desc:'一款优雅强大的PHP集成环境'
     },
+    {
+        name:'lotusadmin权限管理',
+        link:'https://www.lotusadmin.top/',
+        icon:'https://www.lotusadmin.top/favicon.ico',
+        desc:'针对PHP新手和专业二开用户精心打造'
+    },
 ]
