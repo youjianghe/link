@@ -177,4 +177,10 @@ export default
         icon:'https://github.com/favicon.ico',
         desc:'一个轻量、可拓展、针对手机网页的前端开发者调试面板。',
     },
+    {
+        name:'网易前端规范',
+        link:'http://nec.netease.com/',
+        icon:'http://nec.netease.com/favicon.ico',
+        desc:'NEC 更好的CSS方案',
+    },
 ]

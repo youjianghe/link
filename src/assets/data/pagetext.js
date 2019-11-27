@@ -94,5 +94,15 @@ export default [
         name:'益K线-财经',
         link:'http://www.lanyife.com',
         icon:'http://www.lanyife.com/favicon.ico'
+    },
+    {
+        name:'淘客plus',
+        link:'https://taokeplus.com/',
+        icon:'https://taokeplus.com/favicon.ico'
+    },
+    {
+        name:'百度智能小程序seo指南',
+        link:'https://ziyuan.baidu.com/college/articleinfo?id=2772&qq-pf-to=pcqq.group',
+        icon:'https://ziyuan.baidu.com/favicon.ico'
     }
 ]

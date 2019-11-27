@@ -18,6 +18,30 @@ export default [
         desc:'简单好用的 Linux/Windows 面板'
     },
     {
+        name:'UPUPW',
+        link:'http://www.upupw.net/',
+        icon:'http://www.upupw.net/favicon.ico',
+        desc:'UPUPW 绿色服务器平台'
+    },
+    {
+        name:'AMH',
+        link:'http://amh.sh/',
+        icon:'http://amh.sh/favicon.ico',
+        desc:'AMH 国内云主机面板'
+    },
+    {
+        name:'AMH',
+        link:'https://www.appnode.com/',
+        icon:'https://www.appnode.com/favicon.ico',
+        desc:'Linux 服务器集群管理面板'
+    },
+    {
+        name:'WDCP',
+        link:'https://www.wdcp.net/',
+        icon:'https://www.wdcp.net/favicon.ico',
+        desc:'免费的Linux服务器云主机管理系统'
+    },
+    {
         name:'JavaScript Cookie',
         link:'https://github.com/js-cookie/js-cookie',
         icon:'https://github.com/favicon.ico',
