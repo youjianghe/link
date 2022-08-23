@@ -6,6 +6,31 @@
 */
 var data = [
     {
+        name:'魏曦课堂',
+        link:'http://www.weixistyle.com',
+        icon:'http://www.weixistyle.com/images/wx.ico',
+        desc:'魏曦课堂-python'
+    }, {
+        name:'现代javascript教程',
+        link:'https://zh.javascript.info/',
+        icon:'https://zh.javascript.info/img/favicon/apple-touch-icon-precomposed.png',
+        desc:'现代javascript教程'
+    }, {
+        name:'typescript入门教程',
+        link:'http://ts.xcatliu.com/',
+        icon:'http://ts.xcatliu.com//favicon.ico',
+        desc:'typescript入门教程'
+    },{
+        name:'ES6入门教程',
+        link:'https://es6.ruanyifeng.com',
+        icon:'https://es6.ruanyifeng.com/favicon.ico',
+        desc:'阮一峰-ES6入门教程'
+    }, {
+        name:'C语言教程网',
+        link:'http://c.biancheng.net',
+        icon:'http://c.biancheng.net/favicon.ico',
+        desc:'C，java，python等'
+    }, {
         name:'慕课网',
         link:'https://www.imooc.com',
         icon:'https://www.imooc.com/favicon.ico',
